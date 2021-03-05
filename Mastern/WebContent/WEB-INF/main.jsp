@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-메인 화면1
+github-yona sync
 </body>
 </html>
